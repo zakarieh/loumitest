@@ -36,3 +36,177 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+/* Slide Section css */
+
+.services {
+  margin: 0 auto;
+  width: 75%;  
+}
+
+ 
+.service_container {
+  border: 1px solid #EBEBEB;
+  width: 250px;
+  height: 300px;
+  border-radius: 15px 15px 10px 10px;
+  float: left; 
+  text-align: center;
+  font-family: Calibri ;  
+  margin-right: 10px;
+  box-shadow: 5px 5px 5px grey;
+}
+
+
+/* ------------ Title  ----------- */
+
+
+
+
+
+
+/* ------------ Profils  ----------- */
+
+.profils {
+  margin: 0 auto; 
+  width: 170px;
+  height: 80px; 
+}
+
+
+.profil_details{
+  float: right;
+  width: 120px; 
+  height: 80px; 
+}
+
+.profilone {
+  width: 120px;  
+  height: 40px; 
+  font-size: 12px;  
+  text-align: left;
+  margin-top: 5px;
+}
+.profiltwo {
+  height: 40px; 
+  font-size: 12px;  
+  text-align: left;
+  margin-top: 2px;
+}
+
+
+.name_customer {
+  margin: 0;
+  background-color: #282c34;
+}
+
+
+.btn_pro {
+  border: 1px solid #32a1ce;
+  border-radius: 3px;
+  color: black; 
+  width: 18px;
+  font-size:8px;
+}
+
+.btn_pro4 {
+  border: 1px solid #32a1ce;
+  border-radius: 3px;
+  color: black;
+  width:65px ; 
+  text-align: left; 
+  font-size:8px;
+}
+
+.profil_detail{ 
+  width: 120px; 
+  height: 80px;
+  width: 40px;
+}
+
+
+.profils img { 
+  margin-top: 5px; 
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+}
+
+
+
+
+
+/* ------------ Income ----------- */
+
+.incomes {
+  margin: 0 auto; 
+  width: 170px;
+  height: 80px;  
+  height: 60px;
+  margin-top: 10px;
+}
+
+.incomes .title{
+  font-size: 14px;
+  font-weight: bold;
+  
+
+}
+
+.candidat {
+  float: left;
+  margin-left: 30px;
+  color: black;
+  font-size: 12px;
+}
+.candidat .euro {
+  color: #32a1ce;
+  font-weight: 100;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+
+.garant {
+  float: right;
+  margin-right: 30px;
+  font-size: 12px;
+}
+.garant .euro {
+  color: #32a1ce;
+  font-weight: 100;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+
+/* ------------ Footer  ----------- */
+
+.footer{  
+  margin: 0 auto;  
+  height: 80px;  
+}
+
+.btn {
+  border: 1px solid white;
+  background-color: #32a1ce;
+  border-radius: 5px;
+  color: white;
+  margin: 10px 50px 25px 50px;
+  padding: 3px auto;
+  height: 30px;
+  font-size: 12px;
+  text-align: center;
+}
+
+.btn_footer{ 
+  background-color: #a7bcc5;
+  border-radius: 0px 0px 10px 10px;
+  color: white; 
+  height: 25px;
+  font-size: 12px;  
+}
+
+

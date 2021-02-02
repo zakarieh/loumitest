@@ -1,0 +1,183 @@
+.container {
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+/* Top section css */
+.top {
+    width: 75%;
+    margin: 0 auto;
+    height: 100px;
+}
+
+
+.logo {
+    float: left;
+    width: 20%;
+    font-size: 50px;
+    font-family: Righteous;
+    line-height: 100px;
+    color: #7f363e;
+}
+
+
+.menu {
+    width: 80%;
+    float: right;
+}
+
+.menu ul {
+    list-style-type: none;
+    float: right;
+
+}
+
+.menu ul li {
+    font-weight: bold;
+    float: left;
+}
+
+.menu ul li a {
+    display: block;
+    padding: 15px 16px;
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    font-family: Berlin Sans FB;
+}
+.active  {
+    color: #7f363e;
+}
+
+/* Hero Section css */
+
+#hero {
+    width: 100%;
+    height: 300px;
+    background-color: #EBEBEB;  
+}
+
+.herocontainer {
+    width: 75%;
+    margin: 0 auto; 
+}
+
+.heroleft {    
+    width: 70%;
+    float: left; 
+    padding-top: 50px;
+    font-family: Nunito;
+}
+
+.hero img {  
+    text-align: right;
+    float: right;
+}
+
+.heroleft h1 {
+    font-size: 50px;
+    font-weight: bold;
+    margin: 0;
+}
+
+
+.heroleft h6 {
+    padding: 0;
+    margin: 0;
+    font-size: 20px;
+    font-weight: normal;
+}
+.heroleft p {
+    font-size: 10px;
+}
+
+ /* My work css */
+.mywork {
+    margin: 0 auto;
+    width: 75%;
+}
+.mywork h1 {
+    font-size: 40px;
+    margin: 10px auto;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: nunito;
+}
+
+.mywork .divider {
+    border: 1px solid #7f363e;
+    width: 300px; 
+    margin: 0 auto;
+}
+
+.mywork img {
+    margin: 0 auto;
+    width: 300px;
+    height: 290px; 
+}
+
+
+/* Services Section css */
+
+.services {
+    margin: 0 auto;
+    width: 75%;
+}
+
+.services h1 {    
+    font-size: 40px;
+    margin: 10px auto;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: nunito;
+}
+
+.services .divider {
+    border: 1px solid #7f363e;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.service_container {
+    border: 1px solid #EBEBEB;
+    width: 325px;
+    height: 400px;
+    float: left;
+    margin: 10px;
+    text-align: center;
+    font-family: Calibri ;
+ }
+
+ .service_container img {
+    margin-top: 20px; 
+ }
+
+ .service_container h2 {     
+    font-family: Nunito;
+ }
+
+ .service_container p {  
+     text-align: left; 
+     padding: 5px;
+ }
+.btn {
+    background-color: #7f363e;
+    color: #EBEBEB;
+    margin: 0 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
